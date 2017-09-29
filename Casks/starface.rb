@@ -1,10 +1,10 @@
 cask 'starface' do
-  version '1.7.0'
-  sha256 '2ba6409c0f039215b71a15d9bb0a6bf6b3fb0030a48bf8ff70ef1d8e40a25359'
+  version '6.4.2.6'
+  sha256 '57b482a61d8e982850791bac6226dca2d33126cabfbf2a2ed555b7daf5d1b664'
 
-  url 'https://starface.de/macclient/STARFACE%20Client%201.7.0.zip'
-  name 'STARFACE Client'
+  url 'https://www.starface-cdn.de/starface/ISOS/STARFACE%20UCC%20Client%206.4.2.6.zip'
+  name 'STARFACE UCC Client'
   homepage 'https://starface.de'
 
-  app 'STARFACE Client.app'
+  app 'STARFACE UCC Client.app'
 end
