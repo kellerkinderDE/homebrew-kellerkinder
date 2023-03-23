@@ -3,7 +3,7 @@ class Expose < Formula
   homepage "https://expose.dev"
   url "https://kellerkinder-staff.s3.eu-west-1.amazonaws.com/expose.phar"
   version "2.5.0-k10r"
-  sha256 "2a4e0c99a996ee84ed292479c8d3b1a5afa2ef1cff3256964615590fb678711a"
+  sha256 "e9698a16380217acdb9aa6a8c7fb0caa9c820a4554991b73de6f9988ab45e292"
   license "MIT"
 
   uses_from_macos "php"
